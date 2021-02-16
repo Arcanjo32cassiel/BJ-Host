@@ -4,5 +4,5 @@
  ---
 ## 🎥 
 <p align='center'>
-<video src='./.github/bjhost.gif' width='700'>
+<img src='./.github/bjhost.gif' width='700'>
 </p>
